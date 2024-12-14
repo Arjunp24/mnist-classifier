@@ -34,7 +34,6 @@ env/
 # Project specific
 data/
 *.pth
-test_accuracy.txt
 .DS_Store
 
 # Jupyter Notebook
